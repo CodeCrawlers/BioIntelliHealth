@@ -63,3 +63,5 @@ nunit-*.xml
 /.vs/ProjectEvaluation/biointellihealth.strings.v9.bin
 /.vs/BioIntelliHealth/v17/.suo
 /.vs/BioIntelliHealth/v17/DocumentLayout.json
+
+/.vs
