@@ -52,3 +52,14 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs/BioIntelliHealth/DesignTimeBuild/.dtbcache.v2
+/.vs/BioIntelliHealth/FileContentIndex/9f2f5cce-d18a-478a-8d4f-62342a139942.vsidx
+/.vs/BioIntelliHealth/v17/.futdcache.v2
+/.vs/BioIntelliHealth/v17/.suo
+/.vs/BioIntelliHealth/v17/DocumentLayout.backup.json
+/.vs/BioIntelliHealth/v17/DocumentLayout.json
+/.vs/ProjectEvaluation/biointellihealth.metadata.v9.bin
+/.vs/ProjectEvaluation/biointellihealth.projects.v9.bin
+/.vs/ProjectEvaluation/biointellihealth.strings.v9.bin
+/.vs/BioIntelliHealth/v17/.suo
+/.vs/BioIntelliHealth/v17/DocumentLayout.json
